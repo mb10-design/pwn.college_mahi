@@ -60,8 +60,10 @@ When there is more than 1 string to be assigned to a variable we do so by quotin
 
 ###  you must invoke /challenge/run with the PWN variable exported and set to the value COLLEGE, and the COLLEGE variable set to the value PWN but not exported
 
+
 **Flag:**  `pwn.college{U0eSkA4XcaNkRvHjaWwS2O1GOXu.QX3YTN0wCN2kjNzEzW}`
-`
+
+
 We exported the variable PWN, set its value as COLLEGE. We set the value of COLLEGE as PWN.
 
 ```
