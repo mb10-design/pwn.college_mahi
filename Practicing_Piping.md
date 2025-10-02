@@ -373,7 +373,7 @@ pwn.college{s1_knhk131cnDY7b_GzX-sAc1he.01MzMDOxwCN2kjNzEzW}
 
 ## What I learnt
 
-We can also create your own persistent named pipes that stick around on the filesystem! These are called FIFOs, which stands for First (byte) In, First (byte) Out.
+We can also create our own persistent named pipes that stick around on the filesystem! These are called FIFOs, which stands for First (byte) In, First (byte) Out.
 
 
 ## References 
