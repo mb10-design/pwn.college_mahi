@@ -26,7 +26,7 @@ About file directories and what an absolute path is.
 ### We learnt about how programs are created under a directory
 **Flag:**  `pwn.college{4sBo3eWi1_fNf-xzLFlDPcZbBll.QX1QTN0wCN2kjNzEzW}`
 
-Path to challenge directory is /challenge. Any program under challenge directory is /challenge/program. Here the name of the prpgram is run. We get the program y invoking the program under the challenge directory.
+Path to challenge directory is /challenge. Any program under challenge directory is /challenge/program. Here the name of the prpgram is run. We get the program by invoking the program under the challenge directory.
 ```
 
 #!/bin/bash
