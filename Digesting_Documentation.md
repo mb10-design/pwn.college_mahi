@@ -110,7 +110,7 @@ Correct usage! Your flag: pwn.college{sQDtyNyW8oPlWoSy6P_6cCBGtoa.QX2EDO0wCN2kjN
 
 ## What I learnt
 
-While searching for the wprd flag in manuals I used the command man -k flag.
+While searching for the word flag in manuals I used the command man -k flag.
 
 # Helpful Programs 
 
